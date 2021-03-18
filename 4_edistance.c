@@ -15,4 +15,4 @@ int main()
 	printf("distance betweem these two points is %f \n" ,x1,x2,y1,y2,d);//printf funtion calling to print the distance between the two points 
 
 	return 0;//returning statements 
-}//end of main body function
+}//end of main body functions
