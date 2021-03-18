@@ -1,3 +1,6 @@
+//Author name: Devaditya sharma
+//Creation date: 17-23-2021
+//purpose:Area and Perimeter of Circle, Square and Rectangle
 #include<stdio.h>//Preprocessor directive to include input output functions header file
 int main(){//Start of main body function
 	float raduisOfCircle=3;//Declaring variable of float data type
