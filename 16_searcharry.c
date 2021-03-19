@@ -1,6 +1,6 @@
 //Author name :Devaditya sharma 
 //Creation date: 19-03-2021
-//Purpose :A C Program to search an element in the array based on user choice.        © Ishav Verma 19/March/2021
+//Purpose :A C Program to search an element in the array based on user choice.    
 #include <stdio.h>//Preprocessor directive to include input output function header file
 //Start of main function body
 void main(){  //In this program we are not using 'return 0', So 'int main() -> void main()'.
