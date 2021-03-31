@@ -1,4 +1,4 @@
-// Author: Archit Gandotra
+// Author: Devaditya Sharma
 #include <stdio.h>
 #include <string.h>
 int main()
