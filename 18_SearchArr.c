@@ -1,4 +1,5 @@
-// A C Program representing Binary Search.                  © Ishav Verma 31/March/2021
+//Author name : Devaditya sharma
+// A C Program representing Binary Search.         
 #include <stdio.h>
 int main(){
   int c, first, last, middle, n, search, array[100];
