@@ -1,3 +1,4 @@
+//Author name:Devaditye sharma
 //A C Program to Find Sum of Digits of a Number using While Loop.
 #include <stdio.h>
 int main()
