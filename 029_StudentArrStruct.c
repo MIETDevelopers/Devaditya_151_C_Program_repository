@@ -1,4 +1,5 @@
-//A C Program to store Array of structures for student marks for each student and passing it to function for various operations.          © Ishav Verma 20/March/2021
+//Author name :Devaditya sharma
+//A C Program to store Array of structures for student marks for each student and passing it to function for various operations.         
 #include <stdio.h>
 #include <string.h>
  
