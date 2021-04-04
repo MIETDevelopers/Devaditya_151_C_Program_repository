@@ -1,4 +1,5 @@
-//A C Program to print Fibonacci series using recursion.	 			© Ishav Verma 20/March/2021
+//Author name :Devaditya sharma
+//A C Program to print Fibonacci series using recursion.	 
 #include<stdio.h>    
 int main(){    
 	int n1=0,n2=1,n3,i,number;    
