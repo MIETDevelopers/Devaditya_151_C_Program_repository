@@ -1,4 +1,5 @@
-//A C Program to swap two numbers using call by value.              © Ishav Verma 31/March/2021
+//Author name :Devaditya sharma
+//A C Program to swap two numbers using call by value.          
 #include<stdio.h>
 void swap(int, int);
 int main(){
