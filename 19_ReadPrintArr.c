@@ -1,4 +1,5 @@
-// A C Program to read and print elements in two dimensional array. © Ishav Verma 19/March/2021
+//Author name :Devaditya sharma
+// A C Program to read and print elements in two dimensional array. 
 #include<stdio.h>
 int main(){
    /* 2D array declaration*/
