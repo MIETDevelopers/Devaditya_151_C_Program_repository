@@ -1,4 +1,5 @@
-//A C Program to print factorial using recursion.	 			© Ishav Verma 20/March/2021
+//Author name :Devaditya sharma
+//A C Program to print factorial using recursion.	
 #include<stdio.h>
 	long int multiplyNumbers(int n);
 	int main() {
