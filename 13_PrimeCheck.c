@@ -1,3 +1,4 @@
+//Author name :Devaditya sharma
 #include <stdio.h>
 int main()
 {
