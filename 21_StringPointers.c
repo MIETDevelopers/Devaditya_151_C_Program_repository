@@ -1,4 +1,5 @@
-//A C Program to read the string in pointers loaction and give it as output.(Pre-Defined) 			© Ishav Verma 19/March/2021
+//Author name :Devaditya sharma
+//A C Program to read the string in pointers loaction and give it as output.(Pre-Defined) 
 #include <stdio.h>
 
 int main(void) {
