@@ -1,4 +1,4 @@
-//© Ishav Verma 18/March/2021
+//Author name :Devaditya sharma
 #include <stdio.h>
 #include <conio.h>
 
