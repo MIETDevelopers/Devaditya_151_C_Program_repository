@@ -12,7 +12,7 @@ int main() {
 	struct s a[10],b[10];
 	FILE *fptr;
 	int i;
-	fptr=fopen("E:\\Softwares\\C_Programs\\Ishav_160_C_Programs_Repository\\031_ReadWriteMarks.txt","wb"); //Opening the file from the location.
+	fptr=fopen("E:\\Softwares\\C_Programs\\D:Devaditya_151_C_Program_repository\\031_ReadWriteMarks.txt","wb"); //Opening the file from the location.
 	for (i=0;i<1;++i) {
 		fflush(stdin);
 		//Scanning the entered Values.
@@ -26,7 +26,7 @@ int main() {
 	//Writing program.
 	fwrite(a,sizeof(a),1,fptr);
 	fclose(fptr);
-	fptr=fopen("E:\\Softwares\\C_Programs\\Ishav_160_C_Programs_Repository\\031_ReadWriteMarks.txt","rb");
+	fptr=fopen("E:\\Softwares\\C_Programs\\D:Devaditya_151_C_Program_repository\\031_ReadWriteMarks.txt","rb");
 	fread(b,sizeof(b),1,fptr);
 	printf("\n Entered details are:\n");
 	for (i=0;i<1;++i) {
