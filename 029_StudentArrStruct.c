@@ -17,17 +17,17 @@ int main()
  
      // 1st student's record
      record[0].id=1;
-     strcpy(record[0].name, "Ishav");
+     strcpy(record[0].name, "dev");
      record[0].percentage = 99.0;
  
      // 2nd student's record         
      record[1].id=2;
-     strcpy(record[1].name, "Aditya");
+     strcpy(record[1].name, "archit");
      record[1].percentage = 99.1;
  
      // 3rd student's record
      record[2].id=3;
-     strcpy(record[2].name, "Himanish");
+     strcpy(record[2].name, "shiv");
      record[2].percentage = 99.2;
  
      for(i=0; i<3; i++)
